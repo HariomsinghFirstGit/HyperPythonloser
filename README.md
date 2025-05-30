@@ -1,3 +1,3 @@
 # HyperPythonloser
 This is my first git repo.
-<br> Author-Lucky Rajput
+<br> Author-Lucky Rajput(Hyper)
